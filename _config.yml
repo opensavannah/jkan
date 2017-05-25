@@ -1,6 +1,6 @@
-title: Open Savannah
-greeting: Welcome to JKAN
-description: A lightweight, backend-free open data portal, powered by Jekyll.
+title: Open Savannah Brigade Data Portal
+greeting: Welcome to Open Savannah's Data Portal
+description: A lightweight place for sharing of data collected by brigade members.
 baseurl: /jkan
 logo: /img/jkan.png
 
