@@ -1,7 +1,7 @@
 ---
 schema: default
 title: 'Sea Level Rise by Month, 1935-present'
-organization: Sample Department
+organization: NOAA - Fort Pulaski
 notes: >-
   This dataset details the sea-level rise by month as measured from Fort
   Pulaski, 1935-present.
