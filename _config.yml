@@ -63,12 +63,12 @@ digital_analytics_program:
 
 # Hypothesis.io - Annotator
 hypothesis:
-  enabled: false
+  enabled: true
 
 # Twitter
 twittercard:
-  enabled: false
-  username: "@"
+  enabled: true
+  username: "@carlvlewis"
 
 # Open Graph
 opengraph:
