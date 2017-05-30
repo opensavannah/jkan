@@ -1,7 +1,7 @@
 ---
 schema: default
 title: 'Leisure and Hospitality Employment, Savannah, Jan. 1990-Apr. 2017'
-organization: Sample Department
+organization: Federal Reserve Economic Data (FRED) St. Louis
 notes: >-
   Monthly counts of employees in Savannah in the Leisure and Hospitality
   industry. Not seasonally adjusted.
