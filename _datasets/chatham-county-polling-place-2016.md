@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 'Chatham County - Polling Place, 2016'
+title: 'Chatham County - Polling Places, 2016'
 organization: Chatham County Board of Elections
 notes: Polling places for the 2016 general election.
 resources:
