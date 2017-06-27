@@ -1,8 +1,8 @@
 ---
 schema: default
-title: Police data summary raw Jan-Jun 2017
+title: 'Police data summary raw Jan-Jun 2017'
 organization: SCMPD
-notes: Weekly crime rates and call-ins by category from 2017-01-07 to 2017-06-03
+notes: Weekly crime rates and call-ins by category from Jan-Jun 2017
 resources:
   - name: Police data summary raw Jan-Jun 2017
     url: >-
