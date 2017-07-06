@@ -1,7 +1,7 @@
 title: Open Savannah Brigade Data Portal
 greeting: Welcome to Open Savannah's Data Portal
 description: A lightweight place for sharing of data collected by brigade members.
-baseurl: /data
+baseurl: /jkan
 logo: /img/jkan.png
 
 # Site theme
