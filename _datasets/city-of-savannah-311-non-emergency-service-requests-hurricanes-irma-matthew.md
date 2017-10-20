@@ -13,6 +13,10 @@ resources:
     url: >-
       https://cvlassets.s3.amazonaws.com/311-Service-Requests-Hurricanes-Matthew-Irma.csv
     format: csv
+  - name: REVISED-CLEANED-DEFINED-311-requests-matthew-irma
+    url: >-
+      https://cvlassets.s3.amazonaws.com/Hurricane-Matthew-and-Irma-311-Calls-Revised.xlsx
+    format: csv
 license: 'http://www.opendefinition.org/licenses/odc-odbl'
 category:
   - Public Safety
