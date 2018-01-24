@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Citywide Revenue 2018
+title: City of Savannah - Raw Budget 2018
 organization: Office of Budget - City of Savannah
 notes: Proposed
 resources:
